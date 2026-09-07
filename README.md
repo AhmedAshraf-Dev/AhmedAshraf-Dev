@@ -1,6 +1,6 @@
 # Hi there, I'm Ahmed Ashraf 👋
 
-## Frontend Engineer | React & React Native Developer | Building Scalable Digital Experiences
+## Full-Stack & Mobile Developer | React & React Native Developer | Building Scalable Digital Experiences
 
 Passionate frontend engineer focused on building scalable, high-performance, and modern web/mobile applications with clean architecture and exceptional user experiences.
 
